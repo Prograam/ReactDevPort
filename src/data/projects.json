@@ -1,0 +1,27 @@
+[
+  {
+    "title": "ChatXProject",
+    "imageSrc": "projects/project.png",
+    "description": "ChatX is the ultimate chat app designed to redefine the way you connect with friends, family, and colleagues. Packed with cutting-edge features, it offers an unparalleled communication experience that goes beyond simple text messages.",
+    "skills": [
+      "Socket",
+      "Express",
+      "Node",
+      "JavaScript",
+      "MongoDB"
+    ],
+    "source": "https://github.com/Prograam/chatXproject"
+  },
+  {
+    "title": "VedioChat",
+    "imageSrc": "projects/project.png",
+    "description": "ChatConnect is a secure, cross-platform messaging app offering real-time text, voice, and video communication with end-to-end encryption and customizable user interface options.",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "Sass"
+    ],
+    "source": "https://github.com/Prograam/VedioChat"
+  }
+]
