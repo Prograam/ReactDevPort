@@ -42,11 +42,12 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Problem solving</h3>
               <p>
-                Problem Solving Description Adept at problem-solving, I excel in
-                identifying and resolving complex technical challenges through
-                innovative and efficient solutions. My analytical skills and
-                experience enable me to debug and optimize code effectively,
-                ensuring high performance and reliability in all projects.
+                Here's a refined version of your problem-solving description:
+                Problem Solving Expertise I excel at identifying and resolving
+                complex technical challenges through innovative and efficient
+                solutions. My strong analytical skills and experience enable me
+                to debug and optimize code effectively, ensuring high
+                performance and reliability in all projects.
               </p>
             </div>
           </li>
